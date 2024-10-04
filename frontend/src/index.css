@@ -1,0 +1,17 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.notification.singleColumn p {
+  margin: 10px 0;
+}
+
+.notification.twoColumn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.notification.twoColumn p {
+  width: 48%;
+}
